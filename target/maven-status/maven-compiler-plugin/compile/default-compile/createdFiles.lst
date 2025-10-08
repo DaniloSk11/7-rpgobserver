@@ -1,0 +1,8 @@
+rpgobserver\DisplayElement.class
+rpgobserver\QuestDisplay.class
+rpgobserver\CombatLogDisplay.class
+rpgobserver\Subject.class
+rpgobserver\Main.class
+rpgobserver\Hero.class
+rpgobserver\Observer.class
+rpgobserver\StatusDisplay.class
